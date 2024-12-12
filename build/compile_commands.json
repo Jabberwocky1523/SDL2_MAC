@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/tinakurisu/Desktop/SDL2/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/Cellar/sdl2/2.30.10/include -I/opt/homebrew/Cellar/sdl2_image/2.8.2_2/include -I/opt/homebrew/Cellar/sdl2_ttf/2.22.0/include -I/Users/tinakurisu/Desktop/SDL2/TextureHandle -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/cpp_sdl2.dir/script.cpp.o -c /Users/tinakurisu/Desktop/SDL2/script.cpp",
+  "file": "/Users/tinakurisu/Desktop/SDL2/script.cpp",
+  "output": "CMakeFiles/cpp_sdl2.dir/script.cpp.o"
+},
+{
+  "directory": "/Users/tinakurisu/Desktop/SDL2/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/Cellar/sdl2/2.30.10/include -I/opt/homebrew/Cellar/sdl2_image/2.8.2_2/include -I/opt/homebrew/Cellar/sdl2_ttf/2.22.0/include -I/Users/tinakurisu/Desktop/SDL2/TextureHandle -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/cpp_sdl2.dir/TextureHandle/TextureHandle.cpp.o -c /Users/tinakurisu/Desktop/SDL2/TextureHandle/TextureHandle.cpp",
+  "file": "/Users/tinakurisu/Desktop/SDL2/TextureHandle/TextureHandle.cpp",
+  "output": "CMakeFiles/cpp_sdl2.dir/TextureHandle/TextureHandle.cpp.o"
+}
+]
