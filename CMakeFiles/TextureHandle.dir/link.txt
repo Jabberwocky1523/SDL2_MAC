@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libTextureHandle.a CMakeFiles/TextureHandle.dir/TextureHandle/TextureHandle.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libTextureHandle.a
